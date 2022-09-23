@@ -1,0 +1,4 @@
+sphinx
+jupytext
+nbsphinx
+sphinx_autodoc_typehints
